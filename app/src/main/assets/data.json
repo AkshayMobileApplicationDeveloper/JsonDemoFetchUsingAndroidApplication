@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Akshay",
+    "country": "India",
+    "age": 23
+  },
+  {
+    "name": "Nirmala",
+    "country": "USA",
+    "age": 12
+  },
+  {
+    "name": "Geeta",
+    "country": "Nepal",
+    "age": 36
+  },
+  {
+    "name": "Amardeep Kaur",
+    "country": "Sri Lanka",
+    "age": 23
+  },
+  {
+  "name": "Simarn",
+  "country": "USA",
+  "age": 16
+  },
+  {
+    "name": "Jack",
+    "country": "UK",
+    "age": 18
+  },
+  {
+    "name": "john",
+    "country": "AUS",
+    "age": 20
+  },
+  {
+    "name": "Kiran",
+    "country": "Freance",
+    "age": 21
+  }
+]
